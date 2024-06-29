@@ -8,4 +8,7 @@ Step 2: Replace all the files listed in this repository into the corresponding l
 
 Step 3: Run the program and collect the simulation results
 
+Citation
+
+Yujing Gong, Bin-Jie Hu. A Quantum-Resistant Key Management Scheme Using Blockchain in C-V2X. IEEE Transactions on Intelligent Transportation Systems, Digital Object Identifier or DOI: 10.1109/TITS.2024.3421381
 
